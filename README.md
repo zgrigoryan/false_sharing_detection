@@ -27,7 +27,7 @@ The program measures the time taken for multiple threads to update the counters 
 
 ## Compilation & Running
 
-### 1. Clone the repository (if applicable) or create the program in your local environment.
+### 1. Clone the repository or create the program in your local environment.
 
 ### 2. Build the program
 
